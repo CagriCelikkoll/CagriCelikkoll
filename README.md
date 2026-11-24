@@ -136,10 +136,12 @@ over a FastAPI backend.
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CagriCelikkoll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagriCelikkoll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=CagriCelikkoll&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CagriCelikkoll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=420&hide_title=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagriCelikkoll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=330&hide=shaderlab,plpgsql,html,css"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=CagriCelikkoll&theme=tokyonight&hide_border=true&card_width=760"/>
+
 </div>
 
 ### 🤝 Connect
